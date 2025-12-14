@@ -1,1 +1,12 @@
 Ветка demo идентична ветке main
+init
+heat added
+boots
+README added
+dots
+fix readme
+Merge remote-tracking branches 'origin/boots' and 'origin/buttons' into boots_buttons homework commit
+Initial commit
+Merge branch 'hat'
+Merge branch 'boots_buttons'
+add hometask.txt
